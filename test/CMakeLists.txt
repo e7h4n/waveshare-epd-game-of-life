@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.8)
-project(arduino-mock-test-all)
+project(waveshare-epd-game-of-life)
 
 find_package(Threads REQUIRED)
 add_subdirectory(arduino_mock)
